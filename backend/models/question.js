@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Schema = monotype.Schema;
+const Schema = mongoose.Schema;
 
 const QuestionSchema = Schema({
     name: {
